@@ -1,0 +1,5 @@
+C:\Users\kozhe\Desktop\Task_64\64\decision_64\obj\Debug\net6.0\decision_64.csproj.AssemblyReference.cache
+C:\Users\kozhe\Desktop\Task_64\64\decision_64\obj\Debug\net6.0\decision_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozhe\Desktop\Task_64\64\decision_64\obj\Debug\net6.0\decision_64.AssemblyInfoInputs.cache
+C:\Users\kozhe\Desktop\Task_64\64\decision_64\obj\Debug\net6.0\decision_64.AssemblyInfo.cs
+C:\Users\kozhe\Desktop\Task_64\64\decision_64\obj\Debug\net6.0\decision_64.csproj.CoreCompileInputs.cache
